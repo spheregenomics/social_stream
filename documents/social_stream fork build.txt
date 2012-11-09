@@ -1,0 +1,5 @@
+social stream fork and modifications
+
+--- forked on github to my repository
+cd /Users/sean/dropbox/fluent/rails
+git clone git@github.com:sfcarroll/social_stream.git
